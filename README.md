@@ -1,8 +1,10 @@
 # Codsoft Internship
 This repository is the archive of all the projects I make as a C++ programming intern at Codsoft. This includes:
 <br>
-Task 1. Number guessing game 
-Task 2. Simple calculator  
+Task 1. Number guessing game
+<br>
+Task 2. Simple calculator
+<br>
 Task 4. Word counter 
 <br>
 <br>
